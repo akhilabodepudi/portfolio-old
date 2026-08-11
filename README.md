@@ -1,6 +1,6 @@
 # Akhila Bodepudi — Portfolio
 
-Personal portfolio website for **Akhila Bodepudi**, Python Full Stack Developer.
+Personal portfolio website for **Akhila Bodepudi**, Java Full Stack Developer.
 
 ## Live site
 
