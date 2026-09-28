@@ -1,6 +1,6 @@
 # Akhila Bodepudi — Portfolio
 
-Personal portfolio website for **Akhila Bodepudi**, Application Support Engineer.
+Personal portfolio website for **Akhila Bodepudi**, Python Full Stack Developer.
 
 ## Live site
 
@@ -20,5 +20,4 @@ Then visit http://localhost:8000
 
 - [LinkedIn](https://www.linkedin.com/in/akhilabodepudi/)
 - [GitHub](https://github.com/akhilabodepudi)
-- [Cloud Application Monitoring & Support Platform](https://github.com/akhilabodepudi/cloud-application-monitoring-platform)
-- [IT Operations Automation Platform](https://github.com/akhilabodepudi/it-operations-automation-platform)
+- [AgroNity](https://agro-nity.vercel.app)
